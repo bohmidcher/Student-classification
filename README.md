@@ -25,8 +25,6 @@ Ce projet propose un pipeline complet d'analyse et de prédiction de la réussit
 Student-classification/
 ├── 📱 app/
 │   ├── interface.py           # Application Streamlit
-│   └── templates/
-│       └── ui.html            # Templates HTML/CSS
 ├── 📊 data/
 │   └── student-mat.csv        # Dataset des étudiants
 ├── 🤖 models/
@@ -192,8 +190,6 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
 **Ahmed Chermiti**
 
-- GitHub: [@ahmedchermiti](https://github.com/ahmedchermiti)
-
 ## 🙏 Remerciements
 
 - Dataset fourni par l'UCI Machine Learning Repository
@@ -203,3 +199,4 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 ---
 
 ⭐ N'oubliez pas de mettre une étoile si ce projet vous a aidé !
+
